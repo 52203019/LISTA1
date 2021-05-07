@@ -1,0 +1,54 @@
+EXTM3U
+#EXTINF:-1 ,BEIN SPORTS Ñ (ESPAÑA)
+https://playback2.akamaized.net/streams/27856896_8563077_lsizs0eum5plid6lj25_1/exp=1620427910~acl=%2f*~data=hdntl~hmac=b5b1565795451367f913b16ded4dd0238b18086e47335589f7a2536124c59e35/media/27856896_8563077_lsizs0eum5plid6lj25_1@5256000p.m3u8?dw=80&ts=1620338400
+
+
+EXTM3U
+#EXTINF:-1 ,GOL TV (ECUADOR)
+https://playback2.akamaized.net/streams/28253671_9183137_lsi3o6qezl69nyipu0r_1/exp=1620429286~acl=%2f*~data=hdntl~hmac=a354fe0649e2969ea9204af5b0cf23982cb3f5aca705d79416e9569aad7a77e2/media/28253671_9183137_lsi3o6qezl69nyipu0r_1@5256000p.m3u8?dw=80&ts=1620342000
+
+
+
+EXTM3U
+#EXTINF:-1 ,ESPN 3 (ARGENTINA)
+http://23.237.78.54/live-1000/267/playlist.m3u8
+
+EXTM3U
+#EXTINF:-1 , ESPN 2 (ARGENTINA)
+https://e10.cdnfoxtv.me/ingestnb4s/espn2_sur/c.m3u8
+
+EXTM3U
+#EXTINF:-1 ,FOX SPORTS 3 (ARGENTINA)
+https://content-ause1-up-1.uplynk.com/channel/414fee783dc64c1d8a9c3307de00065b/d.m3u8?exp=1620343862&ct=c&cid=414fee783dc64c1d8a9c3307de00065b&expand=drmOff&iph=f0f32c79d8620fde40fe3b5fc732368c7d9f6107264b8cc060cb549029ebb1a3&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=e9d673e8922acabf53ca28dba7f44557b2053d3200757f52a359d6a772138836&pbs=eee2ec915e724ea9b5138eef20e27928
+
+
+EXTM3U
+#EXTINF:-1 ,FOX SPORTS 2 (argentina)
+https://e10.cdnfoxtv.me/ingestnb4s/fox2ar/f.m3u8
+
+EXTM3U
+#EXTINF:-1 ,fOX SPORTS 1 (ARGENTINA)
+https://content-ausc3.uplynk.com/channel/8fac9e5f9b4f4e098efd2f88d77f8f57/d.m3u8?exp=1620344102&ct=c&cid=8fac9e5f9b4f4e098efd2f88d77f8f57&expand=drmOff&iph=4d89dc802b5373c517a64b99ccff38852056e9092682c3f85f1bba12bde9a7cc&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=9186f144e35edcc1197422740bb63204206301426526e70c35d056561789174d&pbs=6faf9d8cb14c4d509da66fb737a9ecbf
+
+
+
+EXTM3U
+#EXTINF:-1 , WIN SPORT +(COLOMBIA)
+https://e3.espncdn.me/ingest03/70270.m3u8?sf=b2dPU2prVlY4ZQ==&token=kxkI98-NxFIrrLbbTzaVwg&expires=1620358579&rnd=
+
+
+EXTM3U
+#EXTINF:-1 , FOX SPORT PREMIUM (ARGENTINA)
+https://content-ausw1-up-1.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343/e.m3u8?exp=1620344582&ct=c&cid=e450f6b7275b4946afa72bfc4beb6343&expand=drmOff&iph=f6b879a288f26e65ad3e8a51cebdaeb365bd22fad7815bb47c9e949a7a7906e6&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=655acecd28d3384f07329a9adba77f5fccf60d42115a91c15c3f7455884e5a3f&pbs=de518f5246ef45ba9b467ad1a93c3e64
+
+
+
+EXTM3U
+#EXTINF:-1 , TyC SPORTS(ARGENTINA)
+https://e3.espncdn.me/ingest01/73994.m3u8?sf=eXpQbWtzSmFDaA==&token=WxX2sXrvMSNHL-rcrlUv-A&expires=1620358991&rnd=
+
+
+
+EXTM3U
+#EXTINF:-1 , TNT SPORTS HD(ARGENTINA)
+https://e3.espncdn.me/ingest02/68472.m3u8?sf=YklPTzA3aHk5VA==&token=AXKx6IPWcih_nqdFMphPfQ&expires=1620359100&rnd=
